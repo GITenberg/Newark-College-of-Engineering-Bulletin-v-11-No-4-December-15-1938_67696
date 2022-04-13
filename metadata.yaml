@@ -1,0 +1,28 @@
+_repo: Newark-College-of-Engineering-Bulletin-v-11-No-4-December-15-1938_67696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newark College of Engineering
+    alias: Newark, N.J. College of Engineering
+    gutenberg_agent_id: '54426'
+    url: http://www.gutenberg.org/2009/agents/54426
+description: ''
+gutenberg_issued: '2022-03-24'
+identifiers:
+  gutenberg: '67696'
+language: en
+pgterms:marc905: 20200729085718anonymous
+pgterms:marc906: '1938'
+pgterms:marc907: US
+production_note: Juliet Sutherland, SF2001, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Newark College of Engineering,1938.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newark College of Engineering -- Curricula -- Catalogs'
+- !lcc 'LD'
+- GITenberg
+title: Newark College of Engineering Bulletin, v. 11, No. 4, December 15, 1938
+url: http://www.gutenberg.org/ebooks/67696
