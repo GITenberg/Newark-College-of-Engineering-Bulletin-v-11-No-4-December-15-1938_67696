@@ -1,5 +1,8 @@
 _repo: Newark-College-of-Engineering-Bulletin-v-11-No-4-December-15-1938_67696
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67696-h/images/cover.jpg
 creator:
   author:
     agent_name: Newark College of Engineering
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54426'
     url: http://www.gutenberg.org/2009/agents/54426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67696#Newark-College-of-Engineering-Bulletin-v-11-No-4-December-15-1938
 gutenberg_issued: '2022-03-24'
 identifiers:
   gutenberg: '67696'
